@@ -1061,7 +1061,7 @@ h1, h2, h3, h4, h5, h6 {
 /*  base : layout
 /* ------------------------------------ */
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dale\/OneDrive\/Documents\/Websites\/www\.genesisthemedevelopment\.dev\/wp-content\/themes\/treehouse-hueman-genesis\/sass\/partials\/_structure-layout\.scss}line{font-family:\000038}}
-#wrapper {
+.site-container {
   min-width: 1024px;
   height: 100%; }
 
